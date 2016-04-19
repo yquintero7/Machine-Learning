@@ -1,2 +1,2 @@
 # Machine-Learning
-Repositorio de AI
+Repositorio de IA
